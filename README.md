@@ -14,6 +14,5 @@
 	
 <p>Collaborators</p>
 <ul>
-  <li><a href="https://github.com/mcarrascopiaggio/">Marcela Carrasco</a></li>
-  <li><a href="https://github.com/asenges/">Alejandro Senges</a></li>
+  <li><a href="https://github.com/AjabiOladipupo/">Oladipupo Ajabi</a></li>
 </ul>
